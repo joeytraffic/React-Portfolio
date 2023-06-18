@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.d90c2c5f.css",
+    "main.js": "/React-Portfolio/static/js/main.7040ba45.js",
+    "static/media/fridayanimenight.png": "/React-Portfolio/static/media/fridayanimenight.39685cf24b795e482fad.png",
+    "static/media/coin.png": "/React-Portfolio/static/media/coin.ba21c0804fd8ce1864fd.png",
+    "static/media/jsquiz.png": "/React-Portfolio/static/media/jsquiz.1fd6f3f0f9bafb1c650a.png",
+    "static/media/README.png": "/React-Portfolio/static/media/README.4c05071c2c467490609f.png",
+    "static/media/password.png": "/React-Portfolio/static/media/password.644c378f6f0592742762.png",
+    "static/media/notetaker.png": "/React-Portfolio/static/media/notetaker.e8ac64631566492bee9a.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.d90c2c5f.css.map": "/React-Portfolio/static/css/main.d90c2c5f.css.map",
+    "main.7040ba45.js.map": "/React-Portfolio/static/js/main.7040ba45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d90c2c5f.css",
+    "static/js/main.7040ba45.js"
+  ]
+}
